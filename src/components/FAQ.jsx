@@ -15,7 +15,7 @@ const faqs = [
     question: "Can I upgrade my plan later?",
     answer:
       "Yes, you can upgrade at any time from your account dashboard. The difference will be prorated.",
-  },
+  }, 
   {
     question: "How quickly can your company send out an engineer?",
     answer: "We can usually send an engineer the same day, and in many cases within a few hours depending on your location and availability."
